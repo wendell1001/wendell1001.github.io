@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>服务项目 | 公司产品 on 华鼎环保科技有限公司（成都分公司）</title>
+    <link>/services/</link>
+    <description>Recent content in 服务项目 | 公司产品 on 华鼎环保科技有限公司（成都分公司）</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Aug 2018 15:43:33 +0800</lastBuildDate>
+    
+	<atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>保洁养护</title>
+      <link>/services/%E4%BF%9D%E6%B4%81%E5%85%BB%E6%8A%A4/</link>
+      <pubDate>Fri, 24 Aug 2018 15:43:33 +0800</pubDate>
+      
+      <guid>/services/%E4%BF%9D%E6%B4%81%E5%85%BB%E6%8A%A4/</guid>
+      <description>日常保洁包括物业、商场、保洁、学校、街道环卫、写字楼、新居、新办公室开荒清洁等清洁服务，养护包括石材翻新、地板抛光打蜡、大理石结晶等等服务。</description>
+    </item>
+    
+    <item>
+      <title>消杀四害</title>
+      <link>/services/%E6%B6%88%E6%9D%80%E5%9B%9B%E5%AE%B3/</link>
+      <pubDate>Fri, 24 Aug 2018 15:43:33 +0800</pubDate>
+      
+      <guid>/services/%E6%B6%88%E6%9D%80%E5%9B%9B%E5%AE%B3/</guid>
+      <description>白蚁防治、熏蒸服务、消杀蟑螂臭虫、专业灭蚁、杀虫灭鼠</description>
+    </item>
+    
+    <item>
+      <title>管道疏通</title>
+      <link>/services/%E7%AE%A1%E9%81%93%E7%96%8F%E9%80%9A/</link>
+      <pubDate>Fri, 24 Aug 2018 15:43:33 +0800</pubDate>
+      
+      <guid>/services/%E7%AE%A1%E9%81%93%E7%96%8F%E9%80%9A/</guid>
+      <description>排污管更换 化粪池清理、厕所疏通、下水道疏通</description>
+    </item>
+    
+    <item>
+      <title>防水补漏</title>
+      <link>/services/%E9%98%B2%E6%B0%B4%E8%A1%A5%E6%BC%8F/</link>
+      <pubDate>Fri, 24 Aug 2018 15:43:33 +0800</pubDate>
+      
+      <guid>/services/%E9%98%B2%E6%B0%B4%E8%A1%A5%E6%BC%8F/</guid>
+      <description>楼面防水、 裂缝修补、 地下室防水、 外墙防水、 卫生间防水补漏、地板防水等服务</description>
+    </item>
+    
+    <item>
+      <title>外墙高空作业</title>
+      <link>/services/%E5%A4%96%E5%A2%99%E9%AB%98%E7%A9%BA%E4%BD%9C%E4%B8%9A/</link>
+      <pubDate>Thu, 24 Aug 2017 15:43:33 +0800</pubDate>
+      
+      <guid>/services/%E5%A4%96%E5%A2%99%E9%AB%98%E7%A9%BA%E4%BD%9C%E4%B8%9A/</guid>
+      <description>外墙清洗、外墙粉刷维修、外墙防水补漏、外墙拆除安装、灯具安装、广告牌安装等高空作业项目。</description>
+    </item>
+    
+    <item>
+      <title>水池清洗</title>
+      <link>/services/%E6%B0%B4%E6%B1%A0%E6%B8%85%E6%B4%97/</link>
+      <pubDate>Thu, 24 Aug 2017 15:43:33 +0800</pubDate>
+      
+      <guid>/services/%E6%B0%B4%E6%B1%A0%E6%B8%85%E6%B4%97/</guid>
+      <description>蓄水池、供水池、游泳池、局部防水、防水堵漏、灌浆补强与加固等。</description>
+    </item>
+    
+  </channel>
+</rss>

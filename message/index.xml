@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>留言板 on 华鼎环保科技有限公司（成都分公司）</title>
+    <link>/message/</link>
+    <description>Recent content in 留言板 on 华鼎环保科技有限公司（成都分公司）</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Aug 2018 15:43:33 +0800</lastBuildDate>
+    
+	<atom:link href="/message/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
